@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/YHatahet/MultiplayerSnakeGame/issues"
   },
-  "homepage": "https://github.com/YHatahet/MultiplayerSnakeGame#readme"
+  "homepage": "https://github.com/YHatahet/MultiplayerSnakeGame#readme",
+  "dependencies": {
+    "socket.io": "^4.1.3"
+  }
 }
