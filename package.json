@@ -1,0 +1,19 @@
+{
+  "name": "multiplayersnakegame",
+  "version": "1.0.0",
+  "description": "Multiplayer snake game, leveraging socket io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YHatahet/MultiplayerSnakeGame.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YHatahet/MultiplayerSnakeGame/issues"
+  },
+  "homepage": "https://github.com/YHatahet/MultiplayerSnakeGame#readme"
+}
